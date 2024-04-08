@@ -1,6 +1,6 @@
 # LeavLodge
 
-#Getting Started
+## Getting Started
 
 npm run dev
 
